@@ -77,6 +77,8 @@ pipeline {
                         sh 'echo ${APP_ENV}'
                     }
                 }
+            }
+        }
 
     }   
 }
